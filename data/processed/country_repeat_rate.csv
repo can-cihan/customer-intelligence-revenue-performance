@@ -1,0 +1,42 @@
+Country,Customers,RepeatCustomers,RepeatCustomerRatePct,SufficientSample
+United Kingdom,5350,3876,72.4,True
+Germany,107,84,78.5,True
+France,95,67,70.5,True
+Spain,41,26,63.4,True
+Belgium,29,22,75.9,False
+Portugal,24,18,75.0,False
+Netherlands,22,16,72.7,False
+Switzerland,22,21,95.5,False
+Sweden,19,9,47.4,False
+Italy,17,12,70.6,False
+Australia,15,10,66.7,False
+Finland,14,10,71.4,False
+Austria,13,10,76.9,False
+Channel Islands,13,12,92.3,False
+Norway,13,7,53.8,False
+Denmark,12,9,75.0,False
+Cyprus,11,8,72.7,False
+Japan,10,7,70.0,False
+USA,9,5,55.6,False
+Poland,6,4,66.7,False
+Unspecified,6,4,66.7,False
+Greece,5,3,60.0,False
+Ireland,5,3,60.0,False
+Canada,5,2,40.0,False
+Israel,4,2,50.0,False
+United Arab Emirates,4,2,50.0,False
+RSA,2,0,0.0,False
+Korea,2,0,0.0,False
+Malta,2,2,100.0,False
+Brazil,2,0,0.0,False
+Bahrain,2,2,100.0,False
+Nigeria,1,1,100.0,False
+Saudi Arabia,1,0,0.0,False
+Singapore,1,1,100.0,False
+Lithuania,1,1,100.0,False
+Lebanon,1,0,0.0,False
+Iceland,1,1,100.0,False
+Thailand,1,1,100.0,False
+European Community,1,1,100.0,False
+Czech Republic,1,1,100.0,False
+West Indies,1,0,0.0,False

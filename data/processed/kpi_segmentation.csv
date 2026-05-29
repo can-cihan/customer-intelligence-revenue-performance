@@ -1,0 +1,4 @@
+Metric,Label,Value,DisplayShort,Methodology
+Avg Order Value,Avg Order Value,510.9,£511,Total revenue / unique invoices (all sales)
+Avg Revenue per Customer,Avg Revenue per Customer,2955.9,"£2,956",Mean of customer total revenue over 24-month window (identified customers)
+Avg Champion Value,Avg Champion Value,9143.86,"£9,144",Mean revenue per Champion customer (24-month observed)

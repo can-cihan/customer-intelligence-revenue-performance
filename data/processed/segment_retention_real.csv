@@ -1,0 +1,61 @@
+Segment,Month,Retention Rate,ActiveCustomers,SegmentCustomers
+At Risk,1,35.9,142,395
+At Risk,2,34.9,138,395
+At Risk,3,35.2,139,395
+At Risk,4,29.4,116,395
+At Risk,5,23.8,94,395
+At Risk,6,22.3,88,395
+At Risk,7,26.1,103,395
+At Risk,8,17.7,70,395
+At Risk,9,22.0,87,395
+At Risk,10,15.9,63,395
+At Risk,11,16.5,65,395
+At Risk,12,14.7,58,395
+Champions,1,46.6,604,1297
+Champions,2,48.4,628,1297
+Champions,3,51.0,662,1297
+Champions,4,46.6,605,1297
+Champions,5,45.5,590,1297
+Champions,6,49.3,640,1297
+Champions,7,45.0,584,1297
+Champions,8,42.3,548,1297
+Champions,9,40.2,521,1297
+Champions,10,42.3,548,1297
+Champions,11,45.4,589,1297
+Champions,12,44.5,577,1297
+Loyal Customers,1,28.8,328,1138
+Loyal Customers,2,29.1,331,1138
+Loyal Customers,3,27.6,314,1138
+Loyal Customers,4,26.4,300,1138
+Loyal Customers,5,24.3,277,1138
+Loyal Customers,6,20.9,238,1138
+Loyal Customers,7,22.7,258,1138
+Loyal Customers,8,20.0,228,1138
+Loyal Customers,9,17.8,202,1138
+Loyal Customers,10,15.6,177,1138
+Loyal Customers,11,19.3,220,1138
+Loyal Customers,12,19.5,222,1138
+Others,1,9.1,237,2605
+Others,2,7.3,190,2605
+Others,3,8.0,208,2605
+Others,4,6.0,156,2605
+Others,5,5.8,152,2605
+Others,6,4.8,126,2605
+Others,7,4.0,105,2605
+Others,8,3.6,95,2605
+Others,9,3.3,86,2605
+Others,10,3.2,83,2605
+Others,11,2.5,66,2605
+Others,12,3.6,93,2605
+Potential Loyalists,1,9.7,43,443
+Potential Loyalists,2,6.8,30,443
+Potential Loyalists,3,2.3,10,443
+Potential Loyalists,4,3.2,14,443
+Potential Loyalists,5,0.9,4,443
+Potential Loyalists,6,1.4,6,443
+Potential Loyalists,7,0.9,4,443
+Potential Loyalists,8,1.1,5,443
+Potential Loyalists,9,0.5,2,443
+Potential Loyalists,10,0.9,4,443
+Potential Loyalists,11,2.5,11,443
+Potential Loyalists,12,4.5,20,443

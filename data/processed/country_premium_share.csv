@@ -1,0 +1,43 @@
+Country,TotalRevenue,Customers,ChampionsRevenue,SufficientSample,PremiumRevenueSharePct
+All,17374804.268000003,5878,11859591.495000003,True,68.3
+United Kingdom,14389234.917,5350,9569575.245,True,66.5
+Germany,425019.711,107,319338.9,True,75.1
+France,348768.96,95,271007.51,True,77.7
+Spain,108332.49,41,75237.62,True,69.5
+Belgium,65387.82,29,41084.95,False,62.8
+Portugal,55554.78,24,29969.52,False,53.9
+Netherlands,554038.09,22,537085.06,False,96.9
+Switzerland,100061.94,22,23343.26,False,23.3
+Sweden,91515.82,19,55721.39,False,60.9
+Italy,32108.170000000002,17,11417.05,False,35.6
+Australia,169283.46,15,156059.27,False,92.2
+Finland,29925.54,14,19848.91,False,66.3
+Austria,23613.010000000002,13,9629.76,False,40.8
+Channel Islands,44623.33,13,13668.49,False,30.6
+Norway,56322.5,13,31554.07,False,56.0
+Denmark,68580.69,12,13224.19,False,19.3
+Cyprus,24849.95,11,14862.97,False,59.8
+Japan,43023.91,10,21429.39,False,49.8
+USA,8366.86,9,0.0,False,0.0
+Poland,10654.29,6,8616.83,False,80.9
+Unspecified,8607.35,6,0.0,False,0.0
+Greece,19096.19,5,0.0,False,0.0
+Ireland,616570.54,5,604858.43,False,98.1
+Canada,4883.04,5,0.0,False,0.0
+Israel,10415.24,4,0.0,False,0.0
+United Arab Emirates,9202.69,4,0.0,False,0.0
+RSA,1933.74,2,0.0,False,0.0
+Korea,1118.51,2,0.0,False,0.0
+Malta,8099.09,2,1820.09,False,22.5
+Brazil,1411.8700000000001,2,0.0,False,0.0
+Bahrain,1354.3700000000001,2,0.0,False,0.0
+Nigeria,140.39,1,0.0,False,0.0
+Saudi Arabia,145.92000000000002,1,0.0,False,0.0
+Singapore,25317.06,1,25317.06,False,100.0
+Lithuania,4892.68,1,0.0,False,0.0
+Lebanon,1693.88,1,0.0,False,0.0
+Iceland,4921.53,1,4921.53,False,100.0
+Thailand,3070.54,1,0.0,False,0.0
+European Community,1300.25,1,0.0,False,0.0
+Czech Republic,826.74,1,0.0,False,0.0
+West Indies,536.41,1,0.0,False,0.0
