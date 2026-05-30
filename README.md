@@ -57,7 +57,7 @@ ecommerce-commercial-analytics/
 
 ## Honest methodology notes
 
-These were deliberate choices I'd defend in an interview, not gloss:
+Key methodological decisions and assumptions used throughout the analysis:
 
 - All financial figures are in **GBP**. The retailer is UK-based.
 - Commercial KPIs (Total Revenue, AOV) include unidentified-customer transactions. Customer-level metrics (RFM, cohorts, segments) are restricted to identified customers (5,878) to keep the analysis honest.
