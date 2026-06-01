@@ -58,7 +58,7 @@ ecommerce-commercial-analytics/
 ## Honest methodology notes
 
 Key methodological decisions and assumptions used throughout the analysis:
-
+-To keep the repository lightweight and focused on the analytical workflow, the original transaction-level dataset is not included. The files stored under `/data/processed` are aggregated analytical outputs generated from the raw dataset during the analysis process and are included to support dashboard development, reproducibility, and review of key intermediate results.
 - All financial figures are in **GBP**. The retailer is UK-based.
 - Commercial KPIs (Total Revenue, AOV) include unidentified-customer transactions. Customer-level metrics (RFM, cohorts, segments) are restricted to identified customers (5,878) to keep the analysis honest.
 - "Repeat Customer Rate" is shown as a **portfolio-wide benchmark** rather than per country. Only four markets contain ≥30 identified customers; per-country rates would be statistically unstable.
